@@ -1,0 +1,44 @@
+
+.contactus-box {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    width: 60%;
+    margin: 50px auto;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.contactus-box h1 {
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 20px;
+}
+
+
+.form-group {
+    margin: 10px 0;
+}
+
+.form-group label {
+    display: block;
+    font-size: 1rem;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+
+.form-group input::placeholder {
+    font-size: 0.9rem;
+    color: #aaa;
+}
+
